@@ -40,7 +40,7 @@ Compile the code with Makefile. Execute the program as:
 ```
 A file ```wf.dat``` is produced with the following information:
 ```
-#  Position      Potential         Energy          Functions 
+#  Position      Potential         Energy          Function (state 1)  Function (state 2) ... 
                            ...
 ```
 
